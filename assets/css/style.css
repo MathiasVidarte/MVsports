@@ -62,53 +62,37 @@
                 font-size:x-large;
                     }
             .deportes { 
-               width:auto;
-              text-align: center;
-                font-display: 10px    ;
-                justify-content:space-between;
-                flex-wrap: wrap;
-                overflow: hidden;
-                padding: 10px;
-                margin: 10px;
-                margin-block-end: 10px;
-                 }
+                display: flex;
+               flex-wrap: wrap;
+               align-items: center;
+               margin: 50px;
+               justify-items: center;
+               
+             }
                  
-    .img1 { border-radius: 10px;
-            padding: 10px;
-            margin: 10px;}
-
-            
-            .Futbol { 
-                width: 100px;
-                gap: 10px;
-                margin: 10px;
-                   }
-            .Basketball {
-                width: 100px;
-                gap: 10px;
-                margin: 10px;
+    .img1 { 
+            border-radius: 10px;
+             row-gap: 20px;
+             gap: 20px;
+             }
+    .tarjeta1 {
+                
+                
+                 margin: 10px; 
+                 width:auto;
+                 padding: auto;
+                
                   }
-            .Tenis {
-                width: 100px;
-                gap: 10px;
-                margin: 10px;
-                     }
-            .Running {  
-                width: 100px;
-                gap: 10px;
-                margin: 10px;
-                     }
+       
+    .tarjeta-info{display: flex;
+      flex-direction: column;
 
-                .Hockey { 
-              width: 100px;
-             gap: 10px;
-             margin: 10px;
-                 }
-             .Varios { 
-            width: 100px;
-            gap: 10px;
-            margin: 10px;
-                 }
+
+          }      
+    
+    
+    
+
         .formulario { 
             width: 300px;
             margin: 50px;
