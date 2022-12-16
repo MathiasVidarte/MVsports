@@ -51,17 +51,19 @@
                        justify-content: center;
                      align-items: center;
                     color: white;
-                         }
+                    text-decoration: none;
+                    
+                     }
          .textotitulo {
         
              text-overflow: unset;
                     }
-            .subtitulo{
+         .subtitulo{
                 margin: 30px;
                 font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
                 font-size:x-large;
                     }
-            .deportes { 
+               .deportes { 
                 display: flex;
                flex-wrap: wrap;
                align-items: center;
@@ -80,47 +82,42 @@
 
              }
              .img1:hover{
-                
-                
-                transform:translate(7px,7px) ;
-             }
-    .tarjeta1 {
-                
-                
+                  transform:translate(7px,7px) ;
+                  }
+    
+       .tarjeta1   {
                  margin: 10px; 
                  width:auto;
                  padding: auto;
                 
                   }
        
-    .tarjeta-info{display: flex;
-      flex-direction: column;
+    .tarjeta-info{
+          display: flex;
+         flex-direction: column;
+         font-family: 'Bebas Neue', sans-serif;
 
-
-          }      
+         }      
     
     
     
 
-        .formulario { 
-            width: 300px;
-            margin: 50px;
-             border: solid 2px;
-             padding: 15px;
-                font-size: large;
-                
-                 }
+        .formulariocontacto {
+                            width: 50%;
+                            margin: auto;
+                            
+                            }
         
         .textarea { 
                 width: 250px;
               height: 200px; 
                    }
-         .piedepag {
+            .piedepag {
                  padding: 10px;
                  font-style: italic;
                  background-color: gray;
                  text-decoration: none;
-               }
+                     }
                .piedepag > div > a { 
                     text-decoration: none;
                      font-family: sans-serif;
@@ -131,6 +128,7 @@
             .imagenbanner {
                width: 1519px;
                height: 400px;
+               
                         }
         
              .descrip { 
@@ -149,6 +147,8 @@
                 margin: 15px;
                 width: 600px ;
                 height: 350px;
+                display: flex;
+                
                             }
              .botonenviar { 
                 background-color: black;
