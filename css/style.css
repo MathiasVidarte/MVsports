@@ -71,9 +71,9 @@
                               background-color: black;
                              }
         .encabezado {
-                      background-image:url(../img/SL_0210121_40570_75.jpg);
+                      background-color: black;
                       background-size: cover;
-                          width: 100%;
+                    width: 100%;
                       height: 100px;
                      display: flex;
                        justify-content: center;
