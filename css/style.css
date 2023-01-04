@@ -229,7 +229,12 @@
 }
 
 .video {
-  
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+  max-height: -webkit-min-content;
+  max-height: -moz-min-content;
+  max-height: min-content;
   margin: 15px;
 }
 
@@ -361,7 +366,3 @@
   flex-direction: column;
   align-items: center;
 }
-
-.dropdown-center{ margin: 10px;
-                  }
-
