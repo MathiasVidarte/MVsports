@@ -263,10 +263,11 @@
 }
 
 .fondoGenerico {
-  background-color: silver;
-  margin: 0px;
+  background-color: #eaecef;
+ background-image: linear-gradient(160deg, #eaecef 0%, #171918 100%);
+ margin: 0px;
   padding: 0px;
-}
+     }
 
 .mapa {
   margin: 25px;
