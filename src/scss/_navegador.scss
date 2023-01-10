@@ -1,0 +1,31 @@
+.navegador {
+    background-color: black;
+     font-family: 'Bebas Neue', sans-serif;
+}
+.navegador > ul { 
+  list-style-type: none;
+  display: flex;
+ justify-content: end;
+padding-right: 100px;
+
+    }
+.navegador > ul > li {
+ position: relative;
+    }           
+
+.navegador > ul > li:hover ul {
+                 display: block;
+                     }
+.navegador  ul  li  a {
+              display: block;
+                 padding: 25px; 
+                 text-decoration: none;
+                 color: white;
+                 font-size: 20px;
+                     }
+.navegador > ul > li > ul {
+                  position: absolute;
+                  display: none; 
+                  list-style-type: none;
+                  background-color: black;
+                 }
