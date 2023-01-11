@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/issues</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/pulls</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/actions</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/projects?query=is%3Aopen</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/security</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/7d5ee6eddb1fcd46d67f0b9c390f2c5fe48ccc0e</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/blob/master/index.html</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/releases</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/compare</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/security/policy</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/security/advisories</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/143386f083835e608234db60d04a6f22fa183d0d</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/blob/7d5ee6eddb1fcd46d67f0b9c390f2c5fe48ccc0e/index.html</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/find/master</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels?sort=name-asc</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels?sort=name-desc</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels?sort=count-desc</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels?sort=count-asc</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels/bug</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels/documentation</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels/duplicate</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels/enhancement</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels/good%20first%20issue</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels/help%20wanted</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels/invalid</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels/question</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/labels/wontfix</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?state=open</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?state=closed</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/93fa909a5814a708941ea473b909c4a3054aa107</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/find/7d5ee6eddb1fcd46d67f0b9c390f2c5fe48ccc0e</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/9911e6407fc758ee6c00b0815fd20a6da9e917a3</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/15d253e110bda9697f45c3e245588b63def23fff</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/204d235b993c0e468b6549153c80a1c0b8d5fc93</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/19be97cd764fa89a396d397ba848ffedba9d753a</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/88cd6f60b3f012c0170ba794e1b5184295e4f925</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/7a5f09aa5dde167bc7d43778ba3a032865728d55</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/d2981da2957edaee501f5a1b88c58a7b49a7e7a1</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/29596e6f074f45645507035d1cebd0770a8fd9b4</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/38756b153a44e5f17904428893faeb4b30c95030</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/9a07d92d341acd6cbc69374ac8b08a333c892ad3</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/031fc5357583c3c85c4f043b79dfc48c5289a023</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/8c67df7d3b98c4a3d78e8b90a8bdeb3493b7d3f0</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/57ba994665f9e75a5b88d28eb41cd9eab75a2b02</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/9296fad0281650bbe2cfb73266dc5b5ca911f400</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/MathiasVidarte/MVsports/commit/de8ee0460b8968d0f58de47bf2fcf270d83022f2</loc>
+  <lastmod>2023-01-11T04:04:01+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+
+
+</urlset>
