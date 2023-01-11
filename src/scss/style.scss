@@ -212,15 +212,8 @@
              height:450px;
                   
                }
-        .imglocal { 
-            margin-left: 25%;
-            margin-top: 20px;
-            padding: 15px;
-            size-adjust: center;
-            width: 800px;
-             height:450px;
-            border-radius: 1px;
-                 }
+      
+        
         .indicadores {
             margin-left: 25%;
             margin-top: 20px;
@@ -242,7 +235,7 @@
          .dropdown-center{
                margin: 20px;
                       }
-    .nosotros{
+        .nosotros{
         margin-left: 15%}
        
         .video-responsive {
@@ -263,7 +256,9 @@
             height: 100%;
             }
            
-       
+       .textocontacto{
+        margin: 30px
+       }
       
       @import "navegador";
       @import "footer";
