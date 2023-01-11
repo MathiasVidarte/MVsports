@@ -6,31 +6,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;0,700;0,900;1,300;1,800&display=swap');
 
-.loading{ width: 100vw;
-        height: 100vh;
-        background-color: #1919198f;
-        position: fixed;
-        z-index: 500;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        }
-        .loading i {
-            color: white;
-            font-size: 64px;
-            animation-name: rotar;
-            animation-duration: 5s;
-            animation-iteration-count: infinite;
-             }
-    @keyframes rotar {
-         0%{
-            transform: rotateZ(0deg);
-            }
-         100% { 
-            transform: rotateZ(360deg);
-             }
-
-    }
 
 
 
@@ -290,6 +265,7 @@
       
       @import "navegador";
       @import "footer";
+      @import "loading";
 
 
 
