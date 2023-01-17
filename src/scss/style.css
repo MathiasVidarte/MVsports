@@ -1,0 +1,401 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;0,700;0,900;1,300;1,800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.textotitulo {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 45px;
+  font-style: italic;
+}
+
+.encabezado {
+  background-color: black;
+  background-size: cover;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+}
+
+.textotitulo {
+  text-overflow: unset;
+}
+
+.subtitulo {
+  margin: 30px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: x-large;
+}
+
+.deportes {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 50px;
+  justify-items: center;
+  margin-left: 135px;
+}
+
+.img1 {
+  width: 100%;
+  height: auto;
+  row-gap: 20px;
+  gap: 20px;
+  transition: 0.5s;
+}
+
+.img1:hover {
+  transform: translate(7px, 7px);
+}
+
+.tarjeta1 {
+  margin: 10px;
+  width: auto;
+  padding: auto;
+}
+
+.tarjeta-info {
+  display: flex;
+  flex-direction: column;
+  font-family: "Bebas Neue", sans-serif;
+  margin-top: 10px;
+}
+
+.formulariocontacto {
+  width: 50%;
+  margin: auto;
+}
+
+.textarea {
+  width: 250px;
+  height: 200px;
+}
+
+.piedepag {
+  padding: 10px;
+  font-style: italic;
+  background-color: gray;
+  text-decoration: none;
+}
+
+.piedepag > div > a {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: black;
+  font-size: medium;
+}
+
+.descrip {
+  margin: 15px;
+  font-size: large;
+  text-align: left;
+}
+
+.fabricahis {
+  margin: 15px;
+  width: 600px;
+  height: 350px;
+}
+
+.fabricaahora {
+  margin: 15px;
+  width: 600px;
+  height: 350px;
+  display: flex;
+}
+
+.botonenviar {
+  background-color: black;
+  color: white;
+  border: none;
+  margin-top: 10px;
+  padding: 5px 25px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.susc {
+  box-sizing: content-box;
+  margin: 10px;
+}
+
+.btn {
+  background-color: white;
+  color: rgb(9, 9, 9);
+  border: none;
+  margin-top: 10px;
+  padding: 5px 25px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn2 {
+  background-color: black;
+  color: white;
+  border: none;
+  margin-top: 10px;
+  padding: 5px 25px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn2:hover {
+  background-color: rgb(90, 88, 88);
+}
+
+.news {
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+.video {
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+  max-height: -webkit-min-content;
+  max-height: -moz-min-content;
+  max-height: min-content;
+  margin: 15px;
+}
+
+.tarjetas {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 10px;
+}
+
+.tarjeta {
+  width: 250px;
+  border: solid 1px;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 15px;
+  margin: 10px;
+}
+
+.tarjeta__img {
+  width: 100%;
+}
+
+.tarjeta__titulo {
+  margin: 10px;
+}
+
+.fondoGenerico {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(326deg, rgb(2, 0, 36) 0%, rgb(255, 255, 255) 78%);
+  margin: 0px;
+  padding: 0px;
+}
+
+.mapa {
+  margin-left: 25%;
+  margin-top: 20px;
+  padding: 15px;
+  size-adjust: center;
+  width: 800px;
+  height: 450px;
+}
+
+.indicadores {
+  margin-left: 25%;
+  margin-top: 20px;
+}
+
+.marcador {
+  display: inline-flex;
+  margin: 20px;
+}
+
+.reloj {
+  display: inline-flex;
+  margin: 20px;
+}
+
+.telefono {
+  display: inline-flex;
+  margin: 20px;
+}
+
+.textubicacion {
+  display: inline-flex;
+  margin: 20px;
+}
+
+.dropdown-center {
+  margin: 20px;
+}
+
+.nosotros {
+  margin-left: 15%;
+}
+
+.video-responsive {
+  position: relative;
+  padding-bottom: 56.25%; /* 16/9 ratio */
+  padding-top: 30px; /* IE6 workaround*/
+  height: 0;
+  overflow: hidden;
+}
+
+.video-responsive iframe,
+.video-responsive object,
+.video-responsive embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.textocontacto {
+  margin: 30px;
+}
+
+.navegador {
+  background-color: black;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.navegador > ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: end;
+  padding-right: 100px;
+}
+
+.navegador > ul > li {
+  position: relative;
+}
+
+.navegador > ul > li:hover ul {
+  display: block;
+}
+
+.navegador ul li a {
+  display: block;
+  padding: 25px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+.navegador > ul > li > ul {
+  position: absolute;
+  display: none;
+  list-style-type: none;
+  background-color: black;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  color: grey;
+  background-color: black;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.empresa {
+  display: grid;
+  flex-direction: row;
+  gap: 5px;
+  padding: 5px;
+  width: 40%;
+}
+
+.ubicacion {
+  display: flex;
+  padding: 5px;
+  justify-content: start;
+  gap: 5px;
+  margin: 10px;
+}
+
+.listafooter {
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin: 10px;
+  padding: 5px;
+  gap: 5px;
+  list-style: none;
+}
+
+.derechosres {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+  color: grey;
+}
+
+.redes {
+  display: flex;
+  align-items: flex-end;
+  justify-content: end;
+  padding: 10px;
+  margin: 10px;
+  gap: 10px;
+}
+
+.terminos {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  flex-direction: column;
+  align-items: center;
+}
+
+.loading {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(25, 25, 25, 0.5607843137);
+  position: fixed;
+  z-index: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading i {
+  color: white;
+  font-size: 64px;
+  -webkit-animation-name: rotar;
+          animation-name: rotar;
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes rotar {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
+
+@keyframes rotar {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}/*# sourceMappingURL=style.css.map */
