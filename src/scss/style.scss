@@ -46,13 +46,12 @@
                
              }
                  
-    .img1 {  width: 100%;
-             height: auto;
-           
-             row-gap: 20px;
-             gap: 20px;
-             transition: .5s;
-             
+    .img1 {   width: 100%;
+      height: auto;
+      border-radius: 10px;
+      row-gap: 20px;
+      gap: 20px;
+      transition: 0.5s;
 
              }
        .img1:hover{
