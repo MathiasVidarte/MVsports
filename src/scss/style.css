@@ -38,8 +38,8 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-items: center;
-  flex-direction: row;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .img1 {
