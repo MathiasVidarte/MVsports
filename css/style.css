@@ -38,9 +38,12 @@
 .deportes {
   display: flex;
   flex-wrap: wrap;
+  margin:auto;
   align-items: center;
-  margin: auto;
-  justify-items: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  
+  
   
 }
 
@@ -169,8 +172,8 @@
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-between;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
   padding: 10px;
 }
 

@@ -40,9 +40,9 @@
                 display: flex;
                flex-wrap: wrap;
                align-items: center;
-               margin: auto;
+               
                justify-items: center;
-               margin-left: 135px;
+               flex-direction: row;
                
              }
                  
@@ -173,7 +173,7 @@
         .tarjetas {
           display: flex;
           flex-wrap:wrap;
-          flex-direction: row;
+          
           justify-content: space-between;
           margin-left: 20%;
           margin-right: 20%;
