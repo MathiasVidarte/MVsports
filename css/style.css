@@ -387,6 +387,15 @@
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite;
 }
+ .imglocal{
+   width: 70%;
+   height: auto;
+   margin: auto;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  } 
+
 
 @-webkit-keyframes rotar {
   0% {
@@ -405,3 +414,4 @@
     transform: rotateZ(360deg);
   }
 }
+

@@ -259,7 +259,15 @@
        .textocontacto{
         margin: 30px
        }
-      
+       .imglocal{
+        width: 70%;
+        height: auto;
+        margin: auto;
+       display: flex;
+       align-items: center;
+       border-radius: 10px;
+       } 
+       
       @import "navegador";
       @import "footer";
       @import "loading";

@@ -263,6 +263,15 @@
   margin: 30px;
 }
 
+.imglocal {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+
 .navegador {
   background-color: black;
   font-family: "Bebas Neue", sans-serif;
