@@ -272,6 +272,21 @@
   border-radius: 10px;
 }
 
+.mapa-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.mapa-responsive iframe {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+
 .navegador {
   background-color: black;
   font-family: "Bebas Neue", sans-serif;
