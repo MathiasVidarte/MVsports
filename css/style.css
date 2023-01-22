@@ -388,12 +388,14 @@
           animation-iteration-count: infinite;
 }
  .imglocal{
+      padding-top: 10px;
       width: 70%;
       height: auto;
       margin: auto;
       display: flex;
       align-items: center;
       border-radius: 10px;
+      
         } 
 .mapa-responsive{
        overflow:hidden;
