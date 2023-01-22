@@ -132,15 +132,6 @@
   padding: 10px;
 }
 
-.video {
-  width: -webkit-min-content;
-  width: -moz-min-content;
-  width: min-content;
-  max-height: -webkit-min-content;
-  max-height: -moz-min-content;
-  max-height: min-content;
-  margin: 15px;
-}
 
 .tarjetas {
   display: flex;
@@ -414,7 +405,14 @@
           padding: 2%;
           margin: 2%;
          }
-      
+      .imgcarousel{
+        
+          width: auto;
+          height: 130px;
+          max-height: 110px;
+          display: block;
+          margin: auto;
+      }
 
 @-webkit-keyframes rotar {
   0% {

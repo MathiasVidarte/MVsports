@@ -24,11 +24,12 @@
   text-decoration: none;
 }
 
-.textotitulo { color: white;
+.textotitulo {
+  color: white;
   transition: none;
   background-color: transparent;
   text-shadow: none;
-     }
+}
 
 .subtitulo {
   margin: 20px;
@@ -80,13 +81,11 @@
   height: 200px;
 }
 
-
 .descrip {
   margin: 15px;
   font-size: large;
   text-align: left;
 }
-
 
 .botonenviar {
   background-color: black;
@@ -167,34 +166,24 @@
 
 .tarjeta__titulo {
   margin: 10px;
-    }
-.tarjeta__desc{
+}
+
+.tarjeta__desc {
   font-family: "Bebas Neue", sans-serif;
   color: black;
-       }
+}
 
 .precio {
-  
- color: black;
- font-size: large;
- font-family:Arial, Helvetica, sans-serif;
-      
-   }
-   
+  color: black;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .fondoGenerico {
   background: rgb(2, 0, 36);
   background: linear-gradient(326deg, rgb(2, 0, 36) 0%, rgb(255, 255, 255) 78%);
   margin: 0px;
   padding: 0px;
-}
-
-.mapa {
-  margin-left: 25%;
-  margin-top: 20px;
-  padding: 15px;
-  size-adjust: center;
-  width: 800px;
-  height: 450px;
 }
 
 .indicadores {
@@ -255,12 +244,25 @@
 }
 
 .imglocal {
+  padding-top: 10px;
   width: 70%;
   height: auto;
   margin: auto;
   display: flex;
   align-items: center;
   border-radius: 10px;
+}
+
+.clearfix {
+  text-align: right;
+  margin: 10px;
+}
+
+.textonosotros {
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+  padding: 2%;
+  margin: 2%;
 }
 
 .mapa-responsive {
@@ -371,7 +373,6 @@
   align-items: center;
   list-style: none;
   flex-direction: column;
-  align-items: center;
 }
 
 .loading {
@@ -395,20 +396,6 @@
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite;
 }
-.clearfix {
-        
-  text-align: left;
-  margin: 10%;
-   }
-
-  .textonosotros{
-          font-family: "Bebas Neue", sans-serif;
-          color: black;
-          padding: 2%;
-          margin: 2%;
-         }
-      
-
 
 @-webkit-keyframes rotar {
   0% {
