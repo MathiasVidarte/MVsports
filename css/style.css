@@ -22,11 +22,15 @@
   align-items: center;
   color: white;
   text-decoration: none;
-}
+  }
+  
 
-.textotitulo {
-  text-overflow: unset;
-}
+  .textotitulo {
+    background-color: transparent;
+   
+    text-shadow: none;
+  }
+
 
 .subtitulo {
  
