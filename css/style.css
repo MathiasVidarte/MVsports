@@ -220,6 +220,7 @@
 }
 
 .textubicacion {
+  text-decoration: none;
   display: inline-flex;
   margin: 20px;
 }
