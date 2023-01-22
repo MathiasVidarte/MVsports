@@ -79,34 +79,8 @@
   height: 200px;
 }
 
-.piedepag {
-  padding: 10px;
-  font-style: italic;
-  background-color: gray;
-  text-decoration: none;
-}
-
-.piedepag > div > a {
-  text-decoration: none;
-  font-family: sans-serif;
-  color: black;
-  font-size: medium;
-}
 
 
-
-.fabricahis {
-  margin: 15px;
-  width: 600px;
-  height: 350px;
-}
-
-.fabricaahora {
-  margin: 15px;
-  width: 600px;
-  height: 350px;
-  display: flex;
-}
 
 .botonenviar {
   background-color: black;
@@ -188,7 +162,18 @@
 
 .tarjeta__titulo {
   margin: 10px;
-}
+     }
+.tarjeta__desc{
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+       }
+.precio {
+  
+  color: black;
+  font-size: large;
+  font-family:Arial, Helvetica, sans-serif;
+
+    }
 
 .fondoGenerico {
   background: rgb(2, 0, 36);
@@ -216,7 +201,9 @@
 }
 
 .indicadores {
-  margin-left: 25%;
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+  text-align: center;
   margin-top: 20px;
 }
 
