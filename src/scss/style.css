@@ -265,6 +265,14 @@
   margin: 2%;
 }
 
+.imgcarousel {
+  width: auto;
+  height: 130px;
+  max-height: 110px;
+  display: block;
+  margin: auto;
+}
+
 .mapa-responsive {
   overflow: hidden;
   padding-bottom: 56.25%;
